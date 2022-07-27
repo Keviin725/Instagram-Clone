@@ -20,5 +20,5 @@ quasar build
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 # Instagram-Clone
-# Project-link
-instaclone-icq.web.app/
+
+<a href="https://instaclone-icq.web.app/#/">link para teste</a>
